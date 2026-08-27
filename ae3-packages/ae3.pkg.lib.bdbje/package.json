@@ -1,0 +1,6 @@
+{
+	"name" : "ae3.pkg.lib.bdbje",
+	"title" : "AE3 Library Wrapper: Oracle BerkleyDB JE (bdbje)",
+	"provides" : "bdbje",
+	"requires" : "java"
+}

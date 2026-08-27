@@ -1,0 +1,10 @@
+Name: ae3.pkg.lib.bdbje
+Requires: \
+	ae3.api \
+	ae3.sdk \
+
+Provides: \
+	ae3.pkg.lib.bdbje \
+	--source-process:compile-java \
+	source-process:ae3-packages \
+
